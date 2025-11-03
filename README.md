@@ -1,7 +1,7 @@
 
   # Home Page Design
 
-  This is a code bundle for Home Page Design. The original project is available at https://www.figma.com/design/zHEXDnD3tQfwkH8Q4y471W/Home-Page-Design.
+  This is a code bundle for Home Page Design. The original project is available at 
 
   ## Running the code
 
